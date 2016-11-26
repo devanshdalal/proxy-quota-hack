@@ -35,11 +35,11 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Devansh Dalal[devanshdalal](https://github.com/devanshdalal)**
+* **Devansh Dalal - [devanshdalal](https://github.com/devanshdalal)**
 
 
 ## Acknowledgments
 
 * stackoverflow
-* Inspiration: given by my friend Rayala Bharadwaj
 * Actually the script is not thorougly tested after I passed the college, so you might find some bugs. 
+* Inspiration: given by my friend Rayala Bharadwaj
