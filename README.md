@@ -1,4 +1,4 @@
-# Unlimited network downloads behind restricted proxy servers (script for IITD student). 
+# Fast n Unlimited network downloads behind quota restricted proxy servers (script for IITD's servers). 
 
 final script after a lots of iterative refinements
 
