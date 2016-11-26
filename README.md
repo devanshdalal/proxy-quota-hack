@@ -27,7 +27,9 @@ chmod +x get.sh
 ./get.sh <link> <target_name>
 ```
 
-this will download the remote file from link and save it in your local owncloud account without reducing your week's quota. 
+this will download the remote file from <link> and save it in your local owncloud account(with name as <target_name>) without afecting your week's quota. Then you just have to download the file from local owncloud server. Speed is the most important thing delivered by this method. You can download 100s of GB of files in just minutes if done properly.   
+
+
 
 ## Contributing
 
