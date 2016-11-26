@@ -14,6 +14,12 @@ You need a remote virtual machine in cloud running, hosted by sites like koding.
 
 Just change the username and password in the script to be ready to use.
 
+And run
+```
+chmod +x get.sh
+```
+
+
 ## Running
 
 
