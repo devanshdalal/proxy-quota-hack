@@ -70,6 +70,8 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 6. [Disco-2!](https://www.youtube.com/watch?v=oAG7ECgXjcs) :guitar: :cocktail: :metal:
 
 
+
+
 ## Authors
 
 * **Devansh Dalal - [devanshdalal](https://github.com/devanshdalal)**
@@ -78,7 +80,6 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on code of conduct, and the process for submitting pull requests.
-
 
 
 ## Bugs reporting
