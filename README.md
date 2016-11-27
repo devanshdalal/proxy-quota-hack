@@ -60,6 +60,16 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 6. Download these parts from OwnCloud on your computer.
 7. Delete files parts from your OwnCloud directory **only** after all file parts have finished downloading to your computer.
 
+### Merging
+
+1. Move the downloaded parts to the directory where you have kept *merge_parts.py*.
+2. Change the **FILE_PARTS_NAME** & **ORIGINAL_FILE_NAME** in *merge_parts.py*. Use the extension of the original file.
+3. Run this snippet in terminal of current directory ```python merge_parts.py```
+4. The final merged file with correct extention is generated in the current directory.
+5. Delete the file parts from your computer.
+6. [Disco-2!](https://www.youtube.com/watch?v=oAG7ECgXjcs) :guitar: :cocktail: :metal:
+
+
 ## Authors
 
 * **Devansh Dalal - [devanshdalal](https://github.com/devanshdalal)**
@@ -69,14 +79,6 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on code of conduct, and the process for submitting pull requests.
 
-## Merging
-
-1. Move the downloaded parts to the directory where you have kept *merge_parts.py*.
-2. Change the **FILE_PARTS_NAME** & **ORIGINAL_FILE_NAME** in *merge_parts.py*. Use the extension of the original file.
-3. Run this snippet in terminal of current directory ```python merge_parts.py```
-4. The final merged file with correct extention is generated in the current directory.
-5. Delete the file parts from your computer.
-6. [Disco-2!](https://www.youtube.com/watch?v=oAG7ECgXjcs) :guitar: :cocktail: :metal:
 
 
 ## Bugs reporting
