@@ -48,9 +48,7 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 1. Keep the file *download_by_parts.py* on the root of your remote virtual machine.
 2. Keep the file *merge_parts.py* on your local computer.
 
-### Running
-
-##### Downloading
+### Running & Downloading
 
 1. Get the URL of the file you want to download. "*file_name*" could be any ASCII name.
 2. Remember the extension of your file. It will be required during merging of file.
@@ -69,7 +67,7 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on code of conduct, and the process for submitting pull requests.
 
-##### Merging
+## Merging
 
 1. Move the downloaded parts to the directory where you have kept *merge_parts.py*.
 2. Change the **FILE_PARTS_NAME** & **ORIGINAL_FILE_NAME** in *merge_parts.py*. Use the extension of the original file.
