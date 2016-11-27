@@ -86,7 +86,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * Stack Overflow
 * Inspiration for the project was provided by Rayala Bharadwaj.
-* Finally people of IIT-D who helped us when our proxy got squished.
+* And people of IIT-D who helped us whenever our proxy got squished.
 
 ## LICENSE
 
