@@ -1,6 +1,6 @@
 # Fast n Unlimited network downloads behind quota restricted proxy servers (script for IITD's servers). 
 
-final script after a lots of iterative refinements
+Final script after a lots of iterative refinements. I started with python scripts with around 50 lines of code where big files were downloaded in parts and then merged. This is the simplest version for the project.
 
 ## Getting Started
 
