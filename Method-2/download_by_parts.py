@@ -1,11 +1,14 @@
+# Author: Devansh Dalal, Ashish Ranjan
+# License: GNU GENERAL PUBLIC LICENSE Version 3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 import thread
 import cookielib,sys
 import requests,os,subprocess
 
 PresentInCloud = {}
 # Set your username & password here
-USERNAME = ee1120437
-PASSWORD = yourpassword
+USERNAME = "ee1120430"
+PASSWORD = "yourpassword"
 # Set limit of each part below. e.g. 450MB = 450*1024*1024
 Limit=450*1024*1024;
 
