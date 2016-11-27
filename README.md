@@ -2,15 +2,11 @@
 
 Are you tired of squishing your network quota in just 2 days? Are you tired of not being able to download those heavy youtube lectures and playlists. Are you jealous of IITK? Well, be no more!
 
-These scripts were written just to overcome these petty limitations at IITD. It will allow you to not only download massive amount of contents, but do so while avoiding using your proxy in the process. So, you may download 100s of GB :scream: of data in a day\*\* and your proxy usage will only read 200-300 MB used. (\*\**Trust us, it's been verified!* :muscle:)
+These scripts were written just to overcome these petty limitations at IITD. It will allow you to not only download massive amount of contents, but do so while avoiding using your proxy in the process. So, you may download 100s of GBs :scream: of data in a day\*\* and your proxy usage will only read 200-300 MB used. (\*\**Trust us, it's been verified, we have used it!* :muscle:)
 Yeah, it sounds like fiction, but it's not!
 So, what are you waiting for? Let's get started.
 
 NOTE: The scripts provided here are only for fair usage. Please do not download illegal contents using these scipts. The authors and contributors do not provide any warranty with this free sofware.
-
-## LICENSE
-
-[GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Getting Started
 
@@ -18,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need a remote virtual machine in cloud running, hosted by sites like koding.com, nitrous.io, c9.io, etc. Please make an account on any free VPS provider and you are good to go.
+You need a remote virtual machine in cloud running, hosted by sites like koding.com, nitrous.io, c9.io, etc. Please make an account on any free VPS provider and you are good to go. These free VPS providers generally have a limit on network bandwidth, so reset your vm whenever you vm-quota is finished.
 
 ## Method-1 (Preferred)
 
@@ -64,6 +60,15 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 6. Download these parts from OwnCloud on your computer.
 7. Delete files parts from your OwnCloud directory **only** after all file parts have finished downloading to your computer.
 
+## Authors
+
+* **Devansh Dalal - [devanshdalal](https://github.com/devanshdalal)**
+* **Ashish Ranjan - [Ashish Ranjan](https://github.com/ashish28ranjan)**
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on code of conduct, and the process for submitting pull requests.
+
 ##### Merging
 
 1. Move the downloaded parts to the directory where you have kept *merge_parts.py*.
@@ -74,20 +79,18 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 6. [Disco-2!](https://www.youtube.com/watch?v=oAG7ECgXjcs) :guitar: :cocktail: :metal:
 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on code of conduct, and the process for submitting pull requests.
-
-## Authors
-
-* **Devansh Dalal - [devanshdalal](https://github.com/devanshdalal)**
-
 ## Bugs reporting
 
 * The script has not been fully tested after we passed from College, so you may encounter some bugs. Please feel free to report them with exact situations on how you found them. We will try our best to find a solution :)
+
 
 ## Acknowledgments
 
 * Stack Overflow
 * Inspiration for the project was provided by Rayala Bharadwaj.
-* **Assisted by: [Ashish Ranjan](https://github.com/ashish28ranjan)**
+* Finally people of IIT-D who helped us when our proxy got squished.
+
+## LICENSE
+
+[GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
