@@ -2,7 +2,7 @@
 
 Are you tired of squishing your network quota in just 2 days? Are you tired of not being able to download those heavy youtube lectures and playlists. Are you jealous of IITK? Well, be no more!
 
-These scripts were written just to overcome these petty limitations at IITD. It will allow you to not only download massive amount of contents, but do so while avoiding using your proxy in the process. So, you may download 100s of GB :scream: of data in a day\*\* and your proxy usage will only read 200-300 MB used. *(\*\*Trust us, it's been verified! :muscle:)*
+These scripts were written just to overcome these petty limitations at IITD. It will allow you to not only download massive amount of contents, but do so while avoiding using your proxy in the process. So, you may download 100s of GB :scream: of data in a day\*\* and your proxy usage will only read 200-300 MB used. (\*\**Trust us, it's been verified!* :muscle:)
 Yeah, it sounds like fiction, but it's not!
 So, what are you waiting for? Let's get started.
 
