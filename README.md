@@ -1,4 +1,6 @@
-# Fast and Unlimited network downloads behind quota restricted proxy servers (script for IITD servers). 
+# Unlimited proxy
+
+#### Fast and infinite downloads behind quota restricted proxy servers(scripts for IITD proxy servers). 
 
 Are you tired of squishing your network quota in just 2 days? Are you tired of not being able to download those heavy youtube lectures and playlists. Are you jealous of IITK? Well, be no more!
 
