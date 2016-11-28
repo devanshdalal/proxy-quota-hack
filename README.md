@@ -1,10 +1,10 @@
-# Unlimited proxy
+# Unlimited Proxy
 
-#### Fast and infinite downloads behind quota restricted proxy servers(scripts for IITD proxy servers). 
+#### Fast and infinite downloads behind quota restricted proxy servers (scripts for IITD proxy servers). 
 
 Are you tired of squishing your network quota in just 2 days? Are you tired of not being able to download those heavy youtube lectures and playlists. Are you jealous of IITK? Well, be no more!
 
-These scripts were written just to overcome these petty limitations at IITD. It will allow you to not only download massive amount of contents, but do so while avoiding using your proxy in the process. So, you may download 100s of GBs :scream: of data in a day\*\* and your proxy usage will only read 200-300 MB used. (\*\**Trust us, it's been verified, we have used it!* :muscle:)
+These scripts were written just to overcome those petty limitations at IITD. It will allow you to not only download massive amount of content, but to do so while avoiding using your proxy in the process. So, you may download 100s of GBs :scream: of data in a day\*\* and your proxy usage will only display 200-300 MB used. (\*\**Trust us, it's been verified, we have used it!* :muscle:)
 Yeah, it sounds like fiction, but it's not!
 So, what are you waiting for? Let's get started.
 
@@ -12,7 +12,7 @@ NOTE: The scripts provided here are only for fair usage. Please do not download 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Choose your method to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -36,9 +36,9 @@ chmod +x get.sh
 1. Get the URL of the file you want to download. "*file_name.ext*" could be any ASCII name. Here *.ext* is the extension of the file e.g. .mp4, .mkv, .zip, etc.
 2. Run ```./get.sh <URL> <file_name.ext>```
 3. An example: ```./get.sh "http://example.com/abc.mp4" "abc.mp4"```
-4. The file will be downloaded to the root of your OwnCloud directory.
+4. The file will be downloaded to the root of your OwnCloud directory with name as ```abc.mp4```.
 5. Download this file from OwnCloud to your computer.
-6. [Disco-1!](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :sparkles: :clap: :boom:
+6. [Disco-1!](https://www.youtube.com/watch?v=oAG7ECgXjcs) :sparkles: :clap: :boom:
 
 
 ## Method-2
@@ -52,7 +52,7 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 
 ### Running & Downloading
 
-1. Get the URL of the file you want to download. "*file_name*" could be any ASCII name.
+1. Get the URL of the file you want to download. "*file_name*" could be any string of ASCII characters.
 2. Remember the extension of your file. It will be required during merging of file.
 3. Change the **URL** and **file_name** in last line in *download_by_parts.py*. 
 4. Run this snippet in terminal in the root directory of your remote virtual machine ```python download_by_parts.py```
@@ -67,7 +67,7 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 3. Run this snippet in terminal of current directory ```python merge_parts.py```
 4. The final merged file with correct extention is generated in the current directory.
 5. Delete the file parts from your computer.
-6. [Disco-2!](https://www.youtube.com/watch?v=oAG7ECgXjcs) :guitar: :cocktail: :metal:
+6. [Disco-2!](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :guitar: :cocktail: :metal:
 
 
 
@@ -91,7 +91,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * Stack Overflow
 * Inspiration for the project was provided by Rayala Bharadwaj.
-* And people of IIT-D who helped us whenever our proxy got squished.
+* Thanks to all our friends from IITD who helped us whenever our proxy got squished :P
 
 ## LICENSE
 
