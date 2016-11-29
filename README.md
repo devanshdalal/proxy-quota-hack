@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need a remote virtual machine in cloud running, hosted by sites like koding.com, nitrous.io, c9.io, etc. Please make an account on any free VPS provider and you are good to go. These free VPS providers generally have a limit on network bandwidth, so reset your vm whenever you vm-quota is finished.
+You need a remote virtual machine in cloud running, hosted by sites like koding.com, nitrous.io, c9.io, codeanywhere, codenvy, codepen etc. Please make an account on any free VPS provider and you are good to go. These free VPS providers generally have a limit on network bandwidth, so reset your vm whenever you vm-quota is finished.
 
 ## Method-1 (Preferred)
 
@@ -74,7 +74,7 @@ In this method we download the file in parts of specified size (e.g. 500 MB). Th
 
 ## Authors
 
-* **Devansh Dalal - [devanshdalal](https://github.com/devanshdalal)**
+* **Devansh Dalal - [Devansh Dalal](https://github.com/devanshdalal)**
 * **Ashish Ranjan - [Ashish Ranjan](https://github.com/ashish28ranjan)**
 
 ## Contributing
