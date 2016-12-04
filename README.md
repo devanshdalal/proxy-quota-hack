@@ -10,6 +10,11 @@ So, what are you waiting for? Let's get started.
 
 NOTE: The scripts provided here are only for fair usage. Please do not download illegal contents using these scipts. The authors and contributors do not provide any warranty with this free sofware.
 
+Please read the following policies of IITD, before continuing:
+1. [IITD IT usage policy](http://www.cc.iitd.ernet.in/CSC/index.php?option=com_content&view=article&id=50&Itemid=153)
+2. [Network access and monitoring policy](http://www.cc.iitd.ernet.in/CSC/index.php?option=com_content&view=article&id=122&Itemid=155)
+3. [Privacy policy for IT usage](http://www.cc.iitd.ernet.in/CSC/index.php?option=com_content&view=article&id=51&Itemid=154)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Choose your method to deploy the project on a live system.
@@ -84,7 +89,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Bugs reporting
 
-* The script has not been fully tested after we passed from College, so you may encounter some bugs. Please feel free to report them with exact situations on how you found them. We will try our best to find a solution :)
+* The script has not been tested since we left College, so you may encounter some bugs. Please feel free to report them with exact situations on how you found them. We will try our best to find a solution :)
 
 
 ## Acknowledgments
