@@ -99,6 +99,10 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * Inspiration for the project was provided by Rayala Bharadwaj.
 * Thanks to all our friends from IITD who helped us whenever our proxy got squished :P
 
+## Some Pointers
+* This project did the job for us, I mean using owncloud worked for me, But there were many limits like maximum storage limit on owncloud, maximum data u can upload in a day etc. It might as well failed. In that case, I was ready to **use the college email for bringing the unmetered data. The bigger files would be broken down to 25 MB email attachments.** This option will always be there. 
+
+
 ## LICENSE
 
 [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html)
