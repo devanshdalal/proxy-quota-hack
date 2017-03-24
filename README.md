@@ -1,4 +1,4 @@
-# Unlimited Proxy
+# Proxy Quota Hack
 
 #### Fast and infinite downloads behind quota restricted proxy servers (scripts for IITD proxy servers). 
 
